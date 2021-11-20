@@ -1,2 +1,2 @@
 # Curriculo
- Primeiro repositorio
+ Primeiro repositorio com os objetivos pessoais e profissionais.
